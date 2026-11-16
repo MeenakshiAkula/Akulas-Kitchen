@@ -335,3 +335,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 © 2026 Akula's Kitchen. All rights reserved. Authentic Flavors & Bespoke Culinary Delights.
+
+## About this copy
+This repository is based on Dhanush1376/Akula-s-Kitchen, a food e-commerce
+platform. The code was written by Dhanush.
+
+## My role: Project Manager
+- Defined the project scope and feature priorities
+- Planned the weekly menu / ordering features with the team
+- Tracked tasks and progress (GitHub Issues / Projects / Trello)
+- Wrote documentation or requirements
+- Coordinated testing and gave feedback on the UI
+- Handled client or stakeholder communication
